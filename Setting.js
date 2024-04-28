@@ -75,7 +75,7 @@ global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://iili.io/J8uLMOv.jpg' ;
 module.exports = {
 
   //==============================[COMPULSORY]=====================================
-  sessionName: process.env.SESSION_ID || '18_04_2024_SIGMA_MD_0DaPhvML_MAHER_ZUBAIR',              // PUT YOUR SESSION ID
+  sessionName: process.env.SESSION_ID || '27_04_2024_SIGMA_MD_MNdjLxpf_MAHER_ZUBAIR',              // PUT YOUR SESSION ID
   botname: process.env.BOT_NAME       || '▶ ●──────── ⚔ 𝐌 𝐔𝐦𝐚𝐫',         // ADD YOUR BOT NAME
   ownername:  process.env.OWNER_NAME  || `𝐌 𝐔𝐦𝐚𝐫`, // ADD YOUR NAME
   HANDLERS: process.env.PREFIX        || '.',              // ADD YOUR BOT PREFIX
